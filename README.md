@@ -34,6 +34,7 @@ for ease of import into reference managers.
 - [Foundations of Computational and Systems Biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/)
 - [The Leek Group Guide to Genomics Papers](https://github.com/jtleek/genomicspapers)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+- [Retraction Watch](https://retractionwatch.com/)
 
 ## Directory Structure
 
