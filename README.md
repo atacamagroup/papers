@@ -35,6 +35,7 @@ for ease of import into reference managers.
 - [The Leek Group Guide to Genomics Papers](https://github.com/jtleek/genomicspapers)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Retraction Watch](https://retractionwatch.com/)
+- [Russ Altman's AMIA Translational Bioinformatics Years in Review](https://rbaltman.wordpress.com/)
 
 ## Directory Structure
 
