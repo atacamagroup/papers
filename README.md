@@ -36,7 +36,7 @@ for ease of import into reference managers.
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Retraction Watch](https://retractionwatch.com/)
 - [Russ Altman's AMIA Translational Bioinformatics Years in Review](https://rbaltman.wordpress.com/)
-- [Stat 337: Readings in Applied Data Science](https://github.com/hadley/stats337)
+- [Stats 337: Readings in Applied Data Science](https://github.com/hadley/stats337)
 
 ## Directory Structure
 
